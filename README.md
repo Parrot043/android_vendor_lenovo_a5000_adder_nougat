@@ -2,6 +2,7 @@
 ![Sourse](https://www.resourcespace.com/knowledge-base/img/knowledge-base/open-source.png)
 Unofficial codename - adder
 
+![A5000](http://www.pinoytechnoguide.com/wp-content/uploads/2015/02/Lenovo-A5000.png)
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | 1.3GHz Quad-Core MT6582M
