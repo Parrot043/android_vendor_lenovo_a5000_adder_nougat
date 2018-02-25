@@ -11,5 +11,5 @@ Memory  | 1GB RAM
 Shipped Android Version | 4.4.2
 Storage | 4GB
 Battery | 4000 mAh
-Display | 4" 1280 x 720 px
+Display | 5" 1280 x 720 px
 Camera  | 5MPx
